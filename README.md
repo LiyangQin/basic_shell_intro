@@ -8,5 +8,11 @@ attempts and trios in using shell languages
 参考：
 
 https://github.com/hi-dhl/fast_guides
+
 https://blog.csdn.net/yonggeit/article/details/72779900
+
 https://man.linuxde.net/
+
+Shell初学（六）Linux Shell 时间运算以及时间差计算方法
+[https://www.cnblogs.com/gered/p/11452119.html]
+
